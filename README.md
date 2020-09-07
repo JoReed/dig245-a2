@@ -5,7 +5,7 @@
 
 Using Atom and Git
 
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+- [] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 - [ ] Inside `index.html`:
   - [ ] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
   - [ ] Add some media to this page, like an image of your favorite animal.
@@ -20,7 +20,7 @@ Using Atom and Git
   - [ ] `4` follow instructions
   - [ ] `4` metaphor
   - [ ] `4` online/accessible
-  - [ ] `4` valid HTML and CSS 
+  - [ ] `4` valid HTML and CSS
   - [ ] `5%` Bonus - Add a table with your weekly dream schedule (what you will do when the robots take over)
 
 
