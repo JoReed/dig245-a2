@@ -1,5 +1,24 @@
 
 /* css */
 body {
-  background-color: lightblue;
+  background-color: #ffffff;
+}
+
+.heading {
+  background-color: #7fbcf5;
+}
+
+#grad {
+  background-image: linear-gradient( rgba(176, 214, 255, 255), rgba(255,0,0,0));
+}
+
+#text {
+  text-align: center;
+}
+
+#images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #555;
 }
